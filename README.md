@@ -6,3 +6,6 @@ Little helpers to install stuff
   chmod +x <your-new-file>.sh
 3. Run the installer with
   ./<your-new-file>.sh
+
+  
+  This was stolen from: https://github.com/bmcgonag/
